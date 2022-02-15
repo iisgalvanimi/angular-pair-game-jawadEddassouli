@@ -10,6 +10,20 @@ export class AppComponent {
   cards:{ cardID: number , status:string , path:string }[]=[ 
     { cardID:0 , status:'default' , path: './assets/default.png' },
     { cardID:1 , status:'default' , path: './assets/default.png' },
+    { cardID:2 , status:'default' , path: './assets/default.png' }, 
+    { cardID:3 , status:'default' , path: './assets/default.png' },
+    { cardID:4 , status:'default' , path: './assets/default.png' },
+    { cardID:5 , status:'default' , path: './assets/default.png' },
+    { cardID:6 , status:'default' , path: './assets/default.png' },
+    { cardID:7 , status:'default' , path: './assets/default.png' },
+    { cardID:8 , status:'default' , path: './assets/default.png' },
+    { cardID:9 , status:'default' , path: './assets/default.png' },
+    { cardID:10 , status:'default' , path: './assets/default.png' },
+    { cardID:11 , status:'default' , path: './assets/default.png' },
+    { cardID:12 , status:'default' , path: './assets/default.png' },
+    { cardID:13 , status:'default' , path: './assets/default.png' },
+    { cardID:14 , status:'default' , path: './assets/default.png' },
+    { cardID:15 , status:'default' , path: './assets/default.png' }
   ] 
  
 
